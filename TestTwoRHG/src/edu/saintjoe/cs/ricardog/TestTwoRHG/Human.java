@@ -27,7 +27,7 @@ public class Human {
 		human2.setWeight(170);
 		
 		human1.setHeight(6);
-		human2.setHeight(5-9);
+		human2.setHeight(6);
 		
 		System.out.println("human1 name = " + human1.getName() + " human1 weight = " + human1.getWeight() + " human1 height = " + human1.getHeight());
 		System.out.println("human2 name = " + human2.getName() + " human2 weight = " + human2.getWeight() + " human2 height = " + human2.getHeight());
